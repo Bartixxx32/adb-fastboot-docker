@@ -1,1 +1,1 @@
-# adb-fastboot-docker
+# adb-fastboot-docker by Bartixxx
